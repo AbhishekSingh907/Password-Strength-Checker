@@ -1,3 +1,6 @@
+## What is docker?
+Docker is a platform that allows developers to automate the deployment of applications inside lightweight, portable containers. It provides an efficient way to package, distribute, and run applications across different environments without worrying about dependencies or compatibility issues.
+
 ## Docker Hub
 A centralized repository for Docker images.
 
