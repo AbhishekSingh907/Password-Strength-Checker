@@ -69,3 +69,12 @@ services:
         volumes:
             - host_path:container_path
 ```
+
+## Docker compose vs Docker CLI
+| Feature                | Docker CLI                         | Docker Compose                      |
+|------------------------|------------------------------------|-------------------------------------|
+| Purpose                | Manage individual containers        | Manage multi-container applications  |
+| Configuration          | Command-line options                | YAML configuration file              |
+| Service Dependencies   | Manual management                   | Built-in support for dependencies     |
+| Networking             | Manual setup                       | Automatic network creation            |
+| Scaling                | Manual scaling                     | Built-in support for scaling          |
