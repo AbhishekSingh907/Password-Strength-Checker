@@ -225,7 +225,7 @@ docker build -t password-strength-checker .
 docker run -it password-strength-checker
 ```
 
-_Note:_ The `-it` flag is crucial for interactive CLI applications to accept user input.
+_Note:_ The `-it` flag is crucial for interactive CLI applications to acceptmvn clean install user input.
 
 ---
 
